@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Implementation-Title: gs-handling-form-submission
+Implementation-Title: spring-boot-thymeleaf-mongoDB-starter
 Implementation-Version: 0.1.0
 Built-By: Jobin
 Implementation-Vendor-Id: org.springframework

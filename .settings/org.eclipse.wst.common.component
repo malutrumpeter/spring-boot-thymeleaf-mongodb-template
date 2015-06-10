@@ -4,7 +4,7 @@
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
-        <property name="context-root" value="gs-handling-form-submission"/>
         <property name="java-output-path" value="/gs-handling-form-submission-complete/target/classes"/>
+        <property name="context-root" value="spring-boot-thymeleaf-mongoDB-starter"/>
     </wb-module>
 </project-modules>
