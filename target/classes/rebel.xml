@@ -2,20 +2,8 @@
 <application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.zeroturnaround.com" xsi:schemaLocation="http://www.zeroturnaround.com http://www.zeroturnaround.com/alderaan/rebel-2_0.xsd">
 
 	<classpath>
-		<dir name="C:/Users/Jobin/Programming Workspace/SpringSpace/spring-boot-thymeleaf-mongodb-template/target/classes">
+		<dir name="C:/Users/Jobin/git/spring-boot-thymeleaf-mongodb-template/target/classes">
 		</dir>
 	</classpath>
-
-	<web>
-		<link target="/">
-			<dir name="C:/Users/Jobin/Programming Workspace/SpringSpace/spring-boot-thymeleaf-mongodb-template/target/m2e-wtp/web-resources">
-				<exclude name="/"/>
-			</dir>
-		</link>
-		<link target="/">
-			<dir name="C:/Users/Jobin/Programming Workspace/SpringSpace/spring-boot-thymeleaf-mongodb-template/src/main/webapp">
-			</dir>
-		</link>
-	</web>
 
 </application>
